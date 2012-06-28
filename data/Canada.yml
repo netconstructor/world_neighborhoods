@@ -318,7 +318,34 @@ British Columbia:
   Jedway: []
   Jervis Inlet: []
   Johnny Mountain: []
-  Kamloops: []
+  Kamloops:
+    - Aberdeen
+    - Barnhartvale
+    - Batchelor Heights
+    - Brocklehurst
+    - Campbell Creek
+    - City Centre
+    - Dallas
+    - Heffley Creek
+    - Indian Reserve
+    - Juniper Ridge
+    - Knutsford
+    - Lac Le Jeune
+    - Lower Sahali
+    - McArthur Island
+    - Mission Flats
+    - Mount Dufferin
+    - Noble Creek
+    - North Shore
+    - Rayleigh
+    - Rose Hill
+    - Southgate
+    - Tranquille
+    - Tranquille
+    - Thompson Rivers University
+    - Upper Sahali
+    - West End
+    - Westsyde
   Kaslo: []
   Kelowna: []
   Kimberley: []
