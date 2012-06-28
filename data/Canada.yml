@@ -449,7 +449,39 @@ British Columbia:
   Tucks: []
   Tumbler Ridge: []
   Vananda: []
-  Vancouver: []
+  Vancouver:
+		- Arbutus Ridge
+		- Chinatown
+		- Coal Harbour
+		- Commercial Drive-Grandview
+		- Downtown Eastside
+		- Downtown Vancouver
+		- Dunbar-Southlands
+		- Fair View
+		- False Creek
+		- Gastown
+		- Grandview-Woodland
+		- Granville Island
+		- Hastings-Sunrise
+		- Kensington-Cedar Cottage
+		- Kensington-Sunrise
+		- Kerrisdale
+		- Killarney
+		- Kitsilano
+		- Main Street-Riley Park
+		- Marpole
+		- Mount Pleasant
+		- Oakridge
+		- Renfrew-Collingwood
+		- Riley Park-Little Mountain
+		- Shaughnessy
+		- South Cambie
+		- Strathcona
+		- Sunset
+		- Victoria-Fraserview
+		- West End
+		- West Point Grey
+		- Yaletown
   Vancouver Apt: []
   Vernon: []
   Victoria: []
