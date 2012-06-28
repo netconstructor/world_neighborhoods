@@ -398,7 +398,15 @@ British Columbia:
   Quatsino: []
   Radium Hot Springs: []
   Revelstoke: []
-  Richmond: []
+  Richmond:
+    - City Centre
+    - East Richmond
+    - Hamilton
+    - Sea Island
+    - South Arm
+    - Steveston
+    - Thompson
+    - West Richmond
   Rivers Inlet: []
   Roosville: []
   Rosedale: []
