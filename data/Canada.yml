@@ -319,33 +319,32 @@ British Columbia:
   Jervis Inlet: []
   Johnny Mountain: []
   Kamloops:
-    - Aberdeen
-    - Barnhartvale
-    - Batchelor Heights
-    - Brocklehurst
-    - Campbell Creek
-    - City Centre
-    - Dallas
-    - Heffley Creek
-    - Indian Reserve
-    - Juniper Ridge
-    - Knutsford
-    - Lac Le Jeune
-    - Lower Sahali
-    - McArthur Island
-    - Mission Flats
-    - Mount Dufferin
-    - Noble Creek
-    - North Shore
-    - Rayleigh
-    - Rose Hill
-    - Southgate
-    - Tranquille
-    - Tranquille
-    - Thompson Rivers University
-    - Upper Sahali
-    - West End
-    - Westsyde
+  - Aberdeen
+  - Barnhartvale
+  - Batchelor Heights
+  - Brocklehurst
+  - Campbell Creek
+  - City Centre
+  - Dallas
+  - Heffley Creek
+  - Indian Reserve
+  - Juniper Ridge
+  - Knutsford
+  - Lac Le Jeune
+  - Lower Sahali
+  - McArthur Island
+  - Mission Flats
+  - Mount Dufferin
+  - Noble Creek
+  - North Shore
+  - Rayleigh
+  - Rose Hill
+  - Southgate
+  - Tranquille
+  - Thompson Rivers University
+  - Upper Sahali
+  - West End
+  - Westsyde
   Kaslo: []
   Kelowna: []
   Kimberley: []
@@ -426,14 +425,15 @@ British Columbia:
   Radium Hot Springs: []
   Revelstoke: []
   Richmond:
-    - City Centre
-    - East Richmond
-    - Hamilton
-    - Sea Island
-    - South Arm
-    - Steveston
-    - Thompson
-    - West Richmond
+  - Burkeville
+  - City Centre
+  - East Richmond
+  - Hamilton
+  - Sea Island
+  - South Arm
+  - Steveston
+  - Thompson
+  - West Richmond
   Rivers Inlet: []
   Roosville: []
   Rosedale: []
@@ -485,64 +485,64 @@ British Columbia:
   Tumbler Ridge: []
   Vananda: []
   Vancouver:
-    - Arbutus Ridge
-    - Chinatown
-    - Coal Harbour
-    - Commercial Drive-Grandview
-    - Downtown Eastside
-    - Downtown Vancouver
-    - Dunbar-Southlands
-    - Fairview
-    - False Creek
-    - Gastown
-    - Grandview-Woodland
-    - Granville Island
-    - Hastings-Sunrise
-    - Kensington-Cedar Cottage
-    - Kensington-Sunrise
-    - Kerrisdale
-    - Killarney
-    - Kitsilano
-    - Main Street-Riley Park
-    - Marpole
-    - Mount Pleasant
-    - Oakridge
-    - Renfrew-Collingwood
-    - Riley Park-Little Mountain
-    - Shaughnessy
-    - South Cambie
-    - Strathcona
-    - Sunset
-    - Victoria-Fraserview
-    - West End
-    - West Point Grey
-    - Yaletown
+  - Arbutus Ridge
+  - Chinatown
+  - Coal Harbour
+  - Commercial Drive-Grandview
+  - Downtown Eastside
+  - Downtown Vancouver
+  - Dunbar-Southlands
+  - Fairview
+  - False Creek
+  - Gastown
+  - Grandview-Woodland
+  - Granville Island
+  - Hastings-Sunrise
+  - Kensington-Cedar Cottage
+  - Kensington-Sunrise
+  - Kerrisdale
+  - Killarney
+  - Kitsilano
+  - Main Street-Riley Park
+  - Marpole
+  - Mount Pleasant
+  - Oakridge
+  - Renfrew-Collingwood
+  - Riley Park-Little Mountain
+  - Shaughnessy
+  - South Cambie
+  - Strathcona
+  - Sunset
+  - Victoria-Fraserview
+  - West End
+  - West Point Grey
+  - Yaletown
   Vancouver Apt: []
   Vernon: []
   Victoria: []
   Watson Is: []
   Watson Lake Apt: []
   West Vancouver:
-    - Altamont
-    - Ambleside
-    - Bayridge
-    - British Properties
-    - Canterbury
-    - Capilano Indian Reserve
-    - Caulfeild
-    - Chartwell
-    - Cedardale
-    - Cypress Park
-    - Dundarave
-    - Eagle Harbour
-    - Gleneagles
-    - Hollyburn
-    - Horseshoe Bay
-    - Panorama
-    - Sentinel Hill
-    - Westmount
-    - Whitby Estates
-    - Whytecliff
+  - Altamont
+  - Ambleside
+  - Bayridge
+  - British Properties
+  - Canterbury
+  - Capilano Indian Reserve
+  - Caulfeild
+  - Chartwell
+  - Cedardale
+  - Cypress Park
+  - Dundarave
+  - Eagle Harbour
+  - Gleneagles
+  - Hollyburn
+  - Horseshoe Bay
+  - Panorama
+  - Sentinel Hill
+  - Westmount
+  - Whitby Estates
+  - Whytecliff
   Westbank: []
   Westwold: []
   Whistler: []
