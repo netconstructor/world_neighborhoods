@@ -233,7 +233,25 @@ British Columbia:
   Britannia Beach: []
   Bronson Creek: []
   Bull Harbour: []
-  Burnaby: []
+  Burnaby:
+  - Big Bend
+  - Brentwood Park
+  - Burnaby East - Cariboo
+  - Burnaby Lake
+  - Burnaby Mountain
+  - Central Burnaby
+  - Central Park
+  - Capitol Hill
+  - Deer Lake
+  - Edmonds
+  - Government Road
+  - Green Tree Village
+  - Lochdale - Parkcrest
+  - Metrotown
+  - South Burnaby
+  - South Slope
+  - The Heights
+  - Westridge
   Burns Lake: []
   Burton: []
   Butterfly Bay: []
@@ -258,7 +276,20 @@ British Columbia:
   Cobble Hill: []
   Comox: []
   Coombs: []
-  Coquitlam: []
+  Coquitlam:
+  - Austin Heights
+  - Cape Horn
+  - Cariboo - Burquitlam
+  - Central Coquitlam
+  - Eagle Ridge
+  - Hockaday - Nestor
+  - Maillardville
+  - Mayfair - Pacific Reach
+  - Northeast
+  - Ranch Park
+  - River Heights
+  - Town Centre
+  - Westwood Plateau
   Cortes Bay: []
   Courtenay: []
   Cowichan Bay: []
@@ -387,7 +418,19 @@ British Columbia:
   Naramata: []
   Nelson: []
   New Denver: []
-  New Westminster: []
+  New Westminster:
+  - Brow of the Hill
+  - Connaught Heights
+  - Downtown
+  - Glenbrooke North
+  - Glenbrooke South
+  - Kelvin
+  - Queensborough
+  - Queen's Park
+  - Sapperton
+  - Uptown
+  - Victory Heights
+  - West End
   Nimpkish: []
   Nimpo Lake: []
   Nootka Sound: []
