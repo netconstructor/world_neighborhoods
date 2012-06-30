@@ -435,7 +435,16 @@ British Columbia:
   Nimpo Lake: []
   Nootka Sound: []
   North Arm Fraser: []
-  North Vancouver: []
+  North Vancouver:
+  - Cedar Village
+  - Central Lonsdale
+  - Grand Boulevard
+  - Lower Lonsdale
+  - Mahon
+  - Marine - Hamilton
+  - Moodyville
+  - Tempe
+  - Westview
   Ocean Falls: []
   Okanagan Falls: []
   Oliver: []
@@ -562,7 +571,20 @@ British Columbia:
   - Yaletown
   Vancouver Apt: []
   Vernon: []
-  Victoria: []
+  Victoria:
+  - Burnside Gorge
+  - Downtown
+  - Fairfield - Gonzales
+  - Fernwood
+  - Harris Green
+  - Hillside - Quadra
+  - James Bay
+  - North Jubilee
+  - North Park
+  - Oaklands
+  - Rockland
+  - South Jubilee
+  - Victoria West
   Watson Is: []
   Watson Lake Apt: []
   West Vancouver:
