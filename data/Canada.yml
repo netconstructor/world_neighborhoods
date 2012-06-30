@@ -233,7 +233,25 @@ British Columbia:
   Britannia Beach: []
   Bronson Creek: []
   Bull Harbour: []
-  Burnaby: []
+  Burnaby:
+  - Big Bend
+  - Brentwood Park
+  - Burnaby East - Cariboo
+  - Burnaby Lake
+  - Burnaby Mountain
+  - Central Burnaby
+  - Central Park
+  - Capitol Hill
+  - Deer Lake
+  - Edmonds
+  - Government Road
+  - Green Tree Village
+  - Lochdale - Parkcrest
+  - Metrotown
+  - South Burnaby
+  - South Slope
+  - The Heights
+  - Westridge
   Burns Lake: []
   Burton: []
   Butterfly Bay: []
@@ -258,7 +276,20 @@ British Columbia:
   Cobble Hill: []
   Comox: []
   Coombs: []
-  Coquitlam: []
+  Coquitlam:
+  - Austin Heights
+  - Cape Horn
+  - Cariboo - Burquitlam
+  - Central Coquitlam
+  - Eagle Ridge
+  - Hockaday - Nestor
+  - Maillardville
+  - Mayfair - Pacific Reach
+  - Northeast
+  - Ranch Park
+  - River Heights
+  - Town Centre
+  - Westwood Plateau
   Cortes Bay: []
   Courtenay: []
   Cowichan Bay: []
@@ -318,7 +349,33 @@ British Columbia:
   Jedway: []
   Jervis Inlet: []
   Johnny Mountain: []
-  Kamloops: []
+  Kamloops:
+  - Aberdeen
+  - Barnhartvale
+  - Batchelor Heights
+  - Brocklehurst
+  - Campbell Creek
+  - City Centre
+  - Dallas
+  - Heffley Creek
+  - Indian Reserve
+  - Juniper Ridge
+  - Knutsford
+  - Lac Le Jeune
+  - Lower Sahali
+  - McArthur Island
+  - Mission Flats
+  - Mount Dufferin
+  - Noble Creek
+  - North Shore
+  - Rayleigh
+  - Rose Hill
+  - Southgate
+  - Tranquille
+  - Thompson Rivers University
+  - Upper Sahali
+  - West End
+  - Westsyde
   Kaslo: []
   Kelowna: []
   Kimberley: []
@@ -361,12 +418,33 @@ British Columbia:
   Naramata: []
   Nelson: []
   New Denver: []
-  New Westminster: []
+  New Westminster:
+  - Brow of the Hill
+  - Connaught Heights
+  - Downtown
+  - Glenbrooke North
+  - Glenbrooke South
+  - Kelvin
+  - Queensborough
+  - Queen's Park
+  - Sapperton
+  - Uptown
+  - Victory Heights
+  - West End
   Nimpkish: []
   Nimpo Lake: []
   Nootka Sound: []
   North Arm Fraser: []
-  North Vancouver: []
+  North Vancouver:
+  - Cedar Village
+  - Central Lonsdale
+  - Grand Boulevard
+  - Lower Lonsdale
+  - Mahon
+  - Marine - Hamilton
+  - Moodyville
+  - Tempe
+  - Westview
   Ocean Falls: []
   Okanagan Falls: []
   Oliver: []
@@ -398,7 +476,16 @@ British Columbia:
   Quatsino: []
   Radium Hot Springs: []
   Revelstoke: []
-  Richmond: []
+  Richmond:
+  - Burkeville
+  - City Centre
+  - East Richmond
+  - Hamilton
+  - Sea Island
+  - South Arm
+  - Steveston
+  - Thompson
+  - West Richmond
   Rivers Inlet: []
   Roosville: []
   Rosedale: []
@@ -449,13 +536,78 @@ British Columbia:
   Tucks: []
   Tumbler Ridge: []
   Vananda: []
-  Vancouver: []
+  Vancouver:
+  - Arbutus Ridge
+  - Chinatown
+  - Coal Harbour
+  - Commercial Drive-Grandview
+  - Downtown Eastside
+  - Downtown Vancouver
+  - Dunbar-Southlands
+  - Fairview
+  - False Creek
+  - Gastown
+  - Grandview-Woodland
+  - Granville Island
+  - Hastings-Sunrise
+  - Kensington-Cedar Cottage
+  - Kensington-Sunrise
+  - Kerrisdale
+  - Killarney
+  - Kitsilano
+  - Main Street-Riley Park
+  - Marpole
+  - Mount Pleasant
+  - Oakridge
+  - Renfrew-Collingwood
+  - Riley Park-Little Mountain
+  - Shaughnessy
+  - South Cambie
+  - Strathcona
+  - Sunset
+  - Victoria-Fraserview
+  - West End
+  - West Point Grey
+  - Yaletown
   Vancouver Apt: []
   Vernon: []
-  Victoria: []
+  Victoria:
+  - Burnside Gorge
+  - Downtown
+  - Fairfield - Gonzales
+  - Fernwood
+  - Harris Green
+  - Hillside - Quadra
+  - James Bay
+  - North Jubilee
+  - North Park
+  - Oaklands
+  - Rockland
+  - South Jubilee
+  - Victoria West
   Watson Is: []
   Watson Lake Apt: []
-  West Vancouver: []
+  West Vancouver:
+  - Altamont
+  - Ambleside
+  - Bayridge
+  - British Properties
+  - Canterbury
+  - Capilano Indian Reserve
+  - Caulfeild
+  - Chartwell
+  - Cedardale
+  - Cypress Park
+  - Dundarave
+  - Eagle Harbour
+  - Gleneagles
+  - Hollyburn
+  - Horseshoe Bay
+  - Panorama
+  - Sentinel Hill
+  - Westmount
+  - Whitby Estates
+  - Whytecliff
   Westbank: []
   Westwold: []
   Whistler: []
