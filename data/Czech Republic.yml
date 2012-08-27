@@ -1,15 +1,27 @@
 ---
-Hlavni mesto Praha: {}
-Jihocesky kraj: {}
-Jihomoravsky kraj: {}
-Karlovarsky kraj: {}
-Kralovehradecky kraj: {}
-Liberecky kraj: {}
-Moravskoslezsky kraj: {}
-Olomoucky kraj: {}
-Pardubicky kraj: {}
-Plzensky kraj: {}
-Stredocesky kraj: {}
-Ustecky kraj: {}
-Vysocina: {}
-Zlinsky kraj: {}
+Jihočeský kraj:
+  České Budějovice: []
+Jihomoravský kraj:
+  Brno: []
+Karlovarský kraj:
+  Karlovy Vary: []
+Královéhradecký kraj:
+  Hradec Králové: []
+Liberecký kraj:
+  Liberec: []
+Moravskoslezský kraj:
+  Ostrava: []
+Olomoucký kraj:
+  Olomouc: []
+Pardubický kraj:
+  Pardubice: []
+Plzeňský kraj:
+  Pilsen: []
+Středočeský kraj:
+  Praga: []
+Ústecký kraj:
+  Ústí nad Labem: []
+Vysočina:
+  Jihlava: []
+Zlínský kraj:
+  Zlín: []
