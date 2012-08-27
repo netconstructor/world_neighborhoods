@@ -1,9 +1,17 @@
 ---
-Banska Bystrica: {}
-Bratislava: {}
-Kosice: {}
-Nitra: {}
-Presov: {}
-Trencin: {}
-Trnava: {}
-Zilina: {}
+Banska Bystrica:
+  Banská Bystrica: []
+Bratislava:
+  Bratislava: []
+Košice:
+  Košice: []
+Nitra:
+  Nitra: []
+Prešov:
+  Prešov: []
+Trenčín:
+  Trenčín: []
+Trnava:
+  Trnava: []
+Žilina:
+  Žilina: []
